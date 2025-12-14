@@ -41,10 +41,10 @@ While the dataset is comprehensive, we identified specific limitations and conce
 
 ### Visualizations and Analysis
 
-This Visualization can be found [here](https://docs.google.com/document/d/1I3QQ0bDR7hCdG-QR8zkChz1qCWiMUUIg_YHB_vAp18s/edit?usp=sharing).
+This Visualization can be found [here](https://docs.google.com/document/d/1I3QQ0bDR7hCdG-QR8zkChz1qCWiMUUIg_YHB_vAp18s/edit?usp=sharing).  
 *Figure 1: Heatmap showing the density of reported crimes in Chicago (2001 vs. Present).*
 
-<iframe src="wheres_schueller1.html" width="100%" height="500" style="border:none;"></iframe>
+<iframe src="fig_annual_trends.html" width="100%" height="500" style="border:none;"></iframe>
 
 *Figure 2: Yearly volume of reported crimes by primary type.*
 
